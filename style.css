@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://img.freepik.com/free-photo/milky-way-starry-sky-background_34011-265.jpg?size=626&ext=jpg) no-repeat;
+  background-size:cover;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+}
+.box{
+  width: 50%;
+  background: #00000075;
+  padding: 40px;
+  text-align: center;
+  margin:auto;
+  margin-top: 5%;
+  color: white;
+  
+}
+.box-img{
+  border-radius: 50%;
+  width: 300px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+  font-size: 50px;
+  color: white;
+  
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+  background: white;
+  border-radius: 5px;
+  height: 45px;
+}
+
+.fab{
+  color:rgb(56, 68, 240);
+}
+
+.nasa{
+  color:#2fbeef;
+}
+.otherlinks{
+  color:#2fbeef;
+  font-size:50px;
+
+  
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 3%;
+  
+}
+
+header ul {
+  list-style-type: none;
+ 
+}
